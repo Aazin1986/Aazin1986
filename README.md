@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Hi my name is Munshi Mohammed Aazin
+I am currently studying in GLS University Faculty of Engineering & Technology 2nd year Batch 2023-2027
 <!--
 **Aazin1986/Aazin1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
